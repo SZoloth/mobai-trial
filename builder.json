@@ -1,0 +1,20 @@
+{
+  "project": "mobai-trial",
+  "platform": "ios",
+  "github": {
+    "owner": "SZoloth",
+    "repo": "mobai-trial"
+  },
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": ".",
+    "configuration": "Debug"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
